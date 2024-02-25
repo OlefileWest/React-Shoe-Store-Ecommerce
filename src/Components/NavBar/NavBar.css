@@ -1,0 +1,27 @@
+.textSpace {
+  background-color: white;
+  width: 300px;
+  border-radius: 15px;
+}
+.brand {
+  color: red;
+}
+.textField {
+  margin-left: 30px;
+  border: none;
+  width: 200px;
+  outline: none;
+}
+
+.navLinks {
+  color: white;
+}
+
+.navLinks:hover {
+  color: red;
+}
+
+.signature {
+  display: flex;
+  justify-content: end;
+}

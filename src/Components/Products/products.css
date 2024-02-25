@@ -1,0 +1,26 @@
+.products {
+  margin-right: 10px;
+  color: red;
+}
+
+.cards {
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.cards:hover {
+  box-shadow: 2px 2px 2px 2px grey;
+}
+
+#West {
+  width: 200px;
+  height: 100px;
+}
+
+#West {
+  float: left;
+  padding-left: 10px;
+  background-color: black;
+  margin-left: 10px;
+  margin-top: 10px;
+}

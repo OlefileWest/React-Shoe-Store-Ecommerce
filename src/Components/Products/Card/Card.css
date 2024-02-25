@@ -1,0 +1,12 @@
+.card {
+  box-shadow: 0 4px 8px 0 indigo;
+  transition: 0.3s;
+}
+
+.card:hover {
+  box-shadow: 8px 16px 0 turquoise;
+}
+
+.container {
+  padding: 2px 16px;
+}
